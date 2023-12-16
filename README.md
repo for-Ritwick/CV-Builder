@@ -6,8 +6,5 @@ A GUI based CV/Resume Builder using Java Swing for interface, Oracle for Databas
 * Domain selection support for users for related advertisements.
 * Additional support for premium user feature.
 
-![image](https://github.com/SohailAliCodes/cv-builder-java-swing/blob/master/images/image.png)
 
-> Diagram:
-![image](https://github.com/SohailAliCodes/cv-builder-java-swing/blob/master/images/CV%20Builder%20(Use%20Case).jpg)
-![image](https://github.com/SohailAliCodes/cv-builder-java-swing/blob/master/images/Class%20diagram.jpg)
+
